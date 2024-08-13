@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+
+.h1 {
+    color: goldenrod;
+    text-shadow: 2px 4px 3px black;
+}
+
+
+.btn {
+    background-color: firebrick;
+    width: 120px;
+    height: 30px;
+    border: none;
+    color: snow;
+    font-size: 20px;
+}
+
+
+.btn:hover {
+    background-color: red;
+    
+}
